@@ -1,0 +1,5 @@
+Drug_ID,drug_ndc,drug_name,Drug_Form_ID,Drug_Brand_ID
+1,433530848,Risperidone,1,1
+2,545695193,Amoxicillin,2,1
+3,545693828,Ambien,1,2
+4,185085302,Diprosone  ,3,1
